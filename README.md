@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jmr623727
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning front-end development
+- 🌱 I’m currently learning front&back-end development
 - 💞️ I’m looking to collaborate on whatever!
-- 📫 How to reach me jmr623727@gmail.com
+- 📫 How to reach me jmrodriguezz25@gmail.com
 - 😄 Pronouns: N/A
 - ⚡ Fun fact: I'm a guy
 
