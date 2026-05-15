@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front&back-end development
 - 💞️ I’m looking to for more connections and open to working on projects!
 - 📫 How to reach me jmr623727@gmail.com
-- ⚡ Fun fact: I'm love Web Development
+- ⚡ Fun fact: I love Web Development
 
 <!---
 jmr623727/jmr623727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
