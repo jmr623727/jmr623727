@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jmr623727
-- 👀 I’m interested in computer science
+- 👋 Hi, I’m Jose Rodriguez
+- 👀 I’m a Software Engineer at @100Devs
 - 🌱 I’m currently learning front&back-end development
-- 💞️ I’m looking to collaborate on whatever!
+- 💞️ I’m looking to for more connections and open to working on projects!
 - 📫 How to reach me jmr623727@gmail.com
-- 😄 Pronouns: N/A
-- ⚡ Fun fact: I'm a guy
+- ⚡ Fun fact: I'm love Web Development
 
 <!---
 jmr623727/jmr623727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
