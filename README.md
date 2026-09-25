@@ -2,7 +2,7 @@
 - 👀 I’m a Software Engineer at @100Devs
 - 🌱 I’m currently learning front&back-end development
 - 💞️ I’m looking to for more connections and open to working on projects!
-- 📫 How to reach me: Gmail: jmr623727@gmail.com, Twitter/X: josercsacc
+- 📫 How to reach me: Gmail: jmrodriguezz2025@gmail.com, Twitter/X: josercsacc
 - ⚡ Fun fact: I love Web Development
 
 <!---
